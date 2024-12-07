@@ -1,0 +1,4 @@
+,random_forest,gradient_boosting,extra_trees,linear_regression
+Train R² Score,0.954,0.871,0.969,0.625
+Test R² Score,0.79,0.83,0.799,0.615
+MAE,1187.189,1311.812,1231.396,1982.72
